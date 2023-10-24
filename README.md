@@ -1,5 +1,5 @@
 <h1>Welcome, im Fronetnd Developer</h1>
-<h2>Looking for opportunity</h2>
+<h2>Not looking for a job</h2>
 <h3>My skills:</h3>
 <ul>
   <li>React</li>
