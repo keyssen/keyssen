@@ -12,6 +12,7 @@
   <li>BEM</li>
   <li>REST API</li>
 </ul>
+
 ## Test assigments
 1. [Art gallery home page](https://github.com/keyssen/art-gallery-home-page) - Test task for Frontend React Developer internship position. [Github-pages link](https://keyssen.github.io/art-gallery-home-page/)
 
