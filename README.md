@@ -12,6 +12,8 @@
   <li>BEM</li>
   <li>REST API</li>
   <li>Webpack</li>
+  <li>Formik</li>
+  <li>Yup</li>
 </ul>
 
 ## Test assigments
